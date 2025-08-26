@@ -7,6 +7,6 @@ public:
         ans ^= val;
         }  
 
-    return ans;
+        return ans;
     }
 };
