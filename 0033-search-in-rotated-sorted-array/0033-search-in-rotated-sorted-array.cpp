@@ -12,13 +12,13 @@ public:
             }
 
             if (nums[st] <= nums[mid]) {
-                if (nums[st] <= target && target <= nums[mid]) {
+                if (nums[st] <= target && target < nums[mid]) {
                     end = mid - 1;
                 } else {
                     st = mid + 1;
                 }
             } else {
-                if (nums[mid] <= target && target <= nums[end]) {
+                if (nums[mid] < target && target <= nums[end]) {
                     st = mid + 1;
                 } else {
                     end = mid - 1;
