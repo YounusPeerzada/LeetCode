@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/YounusPeerzada/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YounusPeerzada/LeetCode/tree/master/0169-majority-element) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YounusPeerzada/LeetCode/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
