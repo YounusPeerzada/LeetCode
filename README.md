@@ -16,6 +16,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/YounusPeerzada/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/YounusPeerzada/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
