@@ -15,6 +15,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YounusPeerzada/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
