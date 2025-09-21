@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/YounusPeerzada/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YounusPeerzada/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/YounusPeerzada/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/YounusPeerzada/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/YounusPeerzada/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/YounusPeerzada/LeetCode/tree/master/0792-binary-search) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/YounusPeerzada/LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/YounusPeerzada/LeetCode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -94,4 +96,12 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/YounusPeerzada/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YounusPeerzada/LeetCode/tree/master/2058-concatenation-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YounusPeerzada/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YounusPeerzada/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
