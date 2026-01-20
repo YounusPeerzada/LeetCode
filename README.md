@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/YounusPeerzada/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/YounusPeerzada/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/YounusPeerzada/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/YounusPeerzada/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/YounusPeerzada/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/YounusPeerzada/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YounusPeerzada/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/YounusPeerzada/LeetCode/tree/master/0792-binary-search) |
